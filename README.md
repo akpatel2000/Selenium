@@ -7,9 +7,9 @@ To get the Selenium package to work there are a few things you need to do first:
 -	5) Next open Terminal (you'll find that in your LaunchPad under Other)I navigated to my R working directory using cd and ls commands
 -	6) One in the working directory type:java -jar  selenium-server-standalone-3.0.0-beta3.jar
 -	7) Everything should be ready for you to execute your code:
---	library(RSelenium)
---
---	RSelenium::checkForServer()
---	remDr = remoteDriver(browserName = "safari")
---	remDr$open()
-...
+*	library(RSelenium)
+*
+*	RSelenium::checkForServer()
+*	remDr = remoteDriver(browserName = "safari")
+*	remDr$open()
+* ...
