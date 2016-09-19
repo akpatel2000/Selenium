@@ -1,4 +1,4 @@
-# Selenium
+# Installing Selenium Standalone Server on Mac
 To get the Selenium package to work there are a few things you need to do first:
 -	1) Download java JDK downloaded --  This is different than the run-time environment used for simple surfing of the web. http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htmlFollow the step-by-step instructions
 -	2) Down load the the WebDriver extension for safari @ http://www.seleniumhq.org/download/   It was under SafariDriver section; version I downloaded was 2.48.0When you double click on the downloaded file.If all is right it should have brought up the Extension section of Safari's preference menu option.
