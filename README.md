@@ -8,8 +8,9 @@ To get the Selenium package to work there are a few things you need to do first:
 -	6) One in the working directory type:java -jar  selenium-server-standalone-3.0.0-beta3.jar
 -	7) Everything should be ready for you to execute your code:
 
-library(RSelenium)
-RSelenium::checkForServer()
+library(RSelenium) 
+RSelenium::checkForServer() 
+
 remDr = remoteDriver(browserName = "safari")
 remDr$open()
 ...
